@@ -8,5 +8,3 @@
 
 # Location 
 # Screenshots
-
-![alt text](C:\Users\owners\hers0080%20Lab03\Screenshot (8).png)
