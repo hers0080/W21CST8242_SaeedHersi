@@ -8,4 +8,4 @@
 
 # Location 
 # Screenshots
-![alt text](https://https://github.com/hers0080/W21CST8242_SaeedHersi/edit/Report_Lab3/Lab03-00.png)
+![alt text](https://https://github.com/hers0080/W21CST8242_SaeedHersi/edit/Report_Lab3/Lab03-00.png?raw=true)
