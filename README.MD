@@ -6,7 +6,8 @@
 |Student ID    | 040990543                    |
 
 
-# Location 
-# Screenshots
+# Location
 
-![alt text](C:\Users\owners\Pictures\Screenshots\hers0080 Lab03\Screenshot (8).png)
+# Screenshot 1
+
+![](C:\Users\owners\Desktop\hers0080%20Lab03)
