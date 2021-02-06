@@ -8,6 +8,6 @@
 
 # Location 
 # Screenshots
-![alt text](Lab03-00.png)
+![alt text](my_images/hers0080%20Lab03/Lab03-00.png)
 
 
