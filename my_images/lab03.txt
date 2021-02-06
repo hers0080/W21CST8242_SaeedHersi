@@ -1,12 +1,13 @@
 #1
 GPO
 #2
+You would create GPOs inside the ITS directory
 #6
 I notice the green program file is on the menu
 #7
 I see the green program file is a new installed program
 #9
-It starts to install the program then opens up, It wasnt fully installed
+It starts to install the program then opens up but it wasnt fully installed
 #11
 There are three new programs red, blue and green.
 #12
