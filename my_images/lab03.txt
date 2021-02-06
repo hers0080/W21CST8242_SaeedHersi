@@ -1,6 +1,7 @@
 #1
 GPO
 #2
+You would create the GPO under the ITS directory
 #6
 I notice the green program file is on the menu
 #7
