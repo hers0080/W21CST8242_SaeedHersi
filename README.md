@@ -8,7 +8,7 @@
 
 # Location 
 # Screenshot 
-![alt text](my_images/Lab03-00.png)
+![alt text](pictures/Lab03-00.png)
 
 #1
 GPO
@@ -16,25 +16,25 @@ GPO
 You would create GPOs inside the ITS directory
 
 # Screenshot 
-![alt text](my_images/Screenshot%20(8).png)
+![alt text](pictures/Screenshot%20(8).png)
 
 # Screenshot 
-![alt text](my_images/Screenshot%20(9).png)
+![alt text](pictures/Screenshot%20(9).png)
 
 # Screenshot
-![alt text](my_images/Screenshot%20(10).png)
+![alt text](pictures/Screenshot%20(10).png)
 #6
 I notice the green program file is on the menu
 #7
 I see the green program file is a new installed program
 
 # Screenshot
-![alt text](my_images/Screenshot%20(11).png)
+![alt text](pictures/Screenshot%20(11).png)
 #9
 It starts to install the program then opens up but it wasnt fully installed
 
 # Screenshot
-![alt text](my_images/Screenshot%20(12).png)
+![alt text](pictures/Screenshot%20(12).png)
 
 #11
 There are three new programs red, blue and green.
@@ -46,7 +46,7 @@ No it had to install first then open
 It installed first then opened.
 
 # Screenshot
-![alt text](my_images/Screenshot%20(13).png)
+![alt text](pictures/Screenshot%20(13).png)
 
 #16
 No it does not show
@@ -54,7 +54,7 @@ No it does not show
 yes green application.
 
 # Screenshot
-![alt text](my_images/Screenshot%20(14).png)
+![alt text](pictures/Screenshot%20(14).png)
 
 #19
 Yes because when you run the application it opens up a windows file.
@@ -62,7 +62,7 @@ Yes because when you run the application it opens up a windows file.
 It installs and opens up with a windows application.
 
 # Screenshot
-![alt text](my_images/Screenshot%20(15).png)
+![alt text](pictures/Screenshot%20(15).png)
 
 #22
 Yes it is still available.
@@ -70,13 +70,13 @@ Yes it is still available.
 It does not show because its not installed yet
 
 # Screenshot
-![alt text](my_images/Screenshot%20(16).png)
+![alt text](pictures/Screenshot%20(16).png)
 
 #25
 Yes CSUser can still run Cosmo1
 
 # Screenshot
-![alt text](my_images/Screenshot%20(17).png)
+![alt text](pictures/Screenshot%20(17).png)
 
 #27
 No it is not available because you upgraded that application to Cosmo2
@@ -85,16 +85,16 @@ Yes you can run Cosmo2 succesfully
 
 
 # Screenshot
-![alt text](my_images/Screenshot%20(18).png)
+![alt text](pictures/Screenshot%20(18).png)
 
 # Screenshot
-![alt text](my_images/Screenshot%20(19).png)
+![alt text](pictures/Screenshot%20(19).png)
 
 # Screenshot
-![alt text](my_images/Screenshot%20(20).png)
+![alt text](pictures/Screenshot%20(20).png)
 
 # Screenshot
-![alt text](my_images/Screenshot%20(21).png)
+![alt text](pictures/Screenshot%20(21).png)
 
 #33
 no its not available because cosmo2 is the most recent intsalled application
@@ -103,7 +103,7 @@ it says another installation is already in progress and to complete with that be
 
 
 # Screenshot
-![alt text](my_images/Screenshot%20(22).png)
+![alt text](pictures/Screenshot%20(22).png)
 
 #36
 It deletes immediately 
