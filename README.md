@@ -9,7 +9,7 @@
 
 # Location 
 # Screenshot 1
-![alt text](lab4/1.png)
+![alt text](lab4/#1.png)
 
 # Screenshot 2 
 ![alt text](lab4/2.png)
