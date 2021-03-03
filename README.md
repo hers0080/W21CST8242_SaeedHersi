@@ -12,7 +12,7 @@
 ![alt text](lab4/#1.png)
 
 # Screenshot 2 
-![alt text](lab4/2.png)
+![alt text](lab4/#2.png)
 
 # Screenshot 3
 ![alt text](lab4/3.png)
