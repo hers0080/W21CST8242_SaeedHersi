@@ -1,3 +1,4 @@
+README.MD
 # W21CST8242_SaeedHersi
 
 <center> <h1> Lab 7 Report</h1> </center>
@@ -9,16 +10,16 @@
 
 # Location 
 # Screenshot 1
-![alt text](lab7/Screenshot(59).png)
+![alt text](Screenshot%(59).png)
 
 # Screenshot 2
-![alt text](lab7/Screenshot(63).png)
+![alt text](lab7/Screenshot&(63).png)
 
 # Screenshot 3
-![alt text](lab7/Screenshot%(64).png)
+![alt text](lab7/Screenshot(64).png)
 
 # Screenshot 4
-![alt text](lab7/Screenshot(65).png)
+![alt text](lab7/Screenshot (65).png)
 
 # Screenshot 5
 ![alt text](lab7/Screenshot(66).png)
@@ -34,3 +35,5 @@
 
 # Screenshot 9
 ![alt text](lab7/Screenshot(70).png)
+
+
