@@ -10,30 +10,30 @@ README.MD
 
 # Location 
 # Screenshot 1
-![alt text](Screenshot%(59).png)
+![alt text](num1.png)
 
 # Screenshot 2
-![alt text](lab7/Screenshot&(63).png)
+![alt text](num2.png)
 
 # Screenshot 3
-![alt text](lab7/Screenshot(64).png)
+![alt text](num3.png)
 
 # Screenshot 4
-![alt text](lab7/Screenshot (65).png)
+![alt text](num4.png)
 
 # Screenshot 5
-![alt text](lab7/Screenshot(66).png)
+![alt text](num5.png)
 
 # Screenshot 6
-![alt text](lab7/Screenshot(67).png)
+![alt text](num6.png)
 
 # Screenshot 7
-![alt text](lab7/Screenshot(68).png)
+![alt text](num7.png)
 
 # Screenshot 8
-![alt text](lab7/Screenshot(69).png)
+![alt text](num8.png)
 
 # Screenshot 9
-![alt text](lab7/Screenshot(70).png)
+![alt text](num9.png)
 
 
